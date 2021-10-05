@@ -1,0 +1,62 @@
+﻿body { margin:100;
+  padding: 0;
+  background: url(login-background.jpg);
+  background-size: cover;
+  background-position:center;
+  font-family: sans;
+}
+
+.form-horizontal
+{
+  width: 1200px;
+  height: 350px;
+  /*background: #500;*/
+  color:gold;
+  top: 30%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  /*box-sizing: border-border-box;*/
+  padding: 70px 30px;
+}
+
+
+/*.form-horizontal col-sm-6
+{
+    border: none;
+    border-bottom: 1px solid #fff;
+    outline: none;
+    height: 40px;
+    font-size: 20px;*/
+
+}
+
+form-horizontal  col-sm-6
+{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+
+input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
